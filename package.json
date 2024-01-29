@@ -1,14 +1,14 @@
 {
   "name": "win11react",
-  "description": "Win11 made in React",
-  "repository": "https://github.com/blueedgetechno/win11React",
+  "description": "Windows in websitet",
+  "repository": "https://github.com/wei3c/win11React",
   "version": "0.1.1",
   "private": true,
   "dependencies": {
     "-": "^0.0.1",
     "@crowdin/cli": "^3.13.0",
-    "@fortawesome/fontawesome-svg-core": "^6.4.0",
-    "@fortawesome/free-regular-svg-icons": "^6.4.0",
+    "@fortawesome/fontawesome-svg-core": "^2.3.4",
+    "@fortawesome/free-regular-svg-icons": "^7.4.8",
     "@fortawesome/free-solid-svg-icons": "^6.4.0",
     "@fortawesome/react-fontawesome": "^0.2.0",
     "@sentry/react": "^7.57.0",
